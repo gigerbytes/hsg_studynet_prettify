@@ -1,4 +1,4 @@
-# Prettifying and improving the shsg studynet
+# Prettifying and improving the HSG [studynet](https://studynet.unisg.ch)
 
 # Main Features
 
@@ -55,7 +55,7 @@ on the left side of the colon is a variable, and on the right side is the value 
 ```
 DO NOT change the variable, only the values, and only in the following way:
 
-```json
+```javascript
 	{
 		'course': 'name of the course that you want to apply a color to',
 		'bg_color': 'the hexadecimal (hex) code of the background color you want',

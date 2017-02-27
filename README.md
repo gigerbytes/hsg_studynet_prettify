@@ -18,7 +18,7 @@
 
 1. **studynet_prettify_core.js**
 	With only the first two functions (colored backgrounds and making the tabs readable)
-2. ** studynet_prettify_full.js **
+2. **studynet_prettify_full.js**
  	With all functions (including the *buggy* download one)
 
 The First two features work properly in most major browsers (tested on firefox, safari and chrome)
@@ -37,7 +37,16 @@ These programs will allow you to run the code that changes the studynet interfac
 
 ## 2. installing the script (actual code)
 
+### Firefox:
 
+1. Select the tampermonkey extention asd click 'New USer script'
+![New Script](img/ff_hover_newscript.png)
+
+2. enter the following details:
+![Basic info](img/ff_initialize.png)
+
+3. Paste the code here - Dont forget to type the 'allow pasting' to allow you to paste
+![Paste The Code](img/ff_paste_script.png)
 
 
 ## 3. Modifying the Script

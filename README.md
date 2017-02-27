@@ -37,31 +37,31 @@ There will be multiple *comma separated* blocks of {curly brackets}, each block 
 
 *NOTE* you may add more blocks, but please dont forget the **commas** between them.
 
-'''
+```javascript
    var courseList = [
         {
             'course': 'Microeconomics',
             'bg_color': '#FFCC66',
         },
         ...
-'''
+    ]
+```
 this is called a json (pronounced j-son) array, and it contains the data the program needs to correctly assign the colors. You will note a few things:
 
 on the left side of the colon is a variable, and on the right side is the value - i.e.
 
-'''
+```
 	variable : value
-'''
-
+```
 DO NOT change the variable, only the values, and only in the following way:
 
-'''
+```json
 	{
 		'course': 'name of the course that you want to apply a color to',
 		'bg_color': 'the hexadecimal (hex) code of the background color you want',
 		'text_color': 'the hex code of the text color you want'
 	}
-'''
+```
 
 ### COURSE  
 1. The name doesnt have to be exact, it just has to be a subset of the actual name.

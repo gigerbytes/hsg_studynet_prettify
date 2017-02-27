@@ -6,11 +6,22 @@
 2. Removing the ID from the Course Tabs - so you can see the actual name
 3. <Experimental> Download Function
 
+![Improved Interface](img/studynet_interface_full.png)
+
+---
+
+# Code
+
 ## NOTE
 
 *There are 2 VERSIONS in this repository:*
-1. With only the first two functions (colored backgrounds and making the tabs readable)
-2. With all functions (including the *buggy* download one)
+1. ** studynet_prettify_core.js **
+
+	With only the first two functions (colored backgrounds and making the tabs readable)
+
+2. ** studynet_prettify_full.js **
+
+ With all functions (including the *buggy* download one)
 
 The First two features work properly in most major browsers (tested on firefox, safari and chrome)
 The Experimental download funciton seems to only work on chrome/chromium at the moment.
@@ -29,6 +40,8 @@ These programs will allow you to run the code that changes the studynet interfac
 ## 2. installing the script (actual code)
 
 
+
+
 ## 3. Modifying the Script
 
 You may modify the colours you want to assign to classes. At the very top of the code, you will see some thing like.
@@ -42,6 +55,7 @@ There will be multiple *comma separated* blocks of {curly brackets}, each block 
         {
             'course': 'Microeconomics',
             'bg_color': '#FFCC66',
+            'text_color':'#000000',
         },
         ...
     ]

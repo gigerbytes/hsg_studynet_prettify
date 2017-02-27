@@ -15,12 +15,10 @@
 ## NOTE
 
 *There are 2 VERSIONS in this repository:*
-1. ** studynet_prettify_core.js **
-
-	With only the first two functions (colored backgrounds and making the tabs readable)
+1. **studynet_prettify_core.js**
+With only the first two functions (colored backgrounds and making the tabs readable)
 
 2. ** studynet_prettify_full.js **
-
  With all functions (including the *buggy* download one)
 
 The First two features work properly in most major browsers (tested on firefox, safari and chrome)

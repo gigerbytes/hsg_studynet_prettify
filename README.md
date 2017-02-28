@@ -24,6 +24,8 @@
 The First two features work properly in most major browsers (tested on firefox, safari and chrome)
 The Experimental download funciton seems to only work on chrome/chromium at the moment.
 
+---
+
 # Installation
 
 ## 1. installing the required extensions
@@ -34,6 +36,8 @@ If you are using Firefox: Use [GreaseMonkey](http://www.greasespot.net)
 Follow the instructions and install it as an extension on your browser.
 
 These programs will allow you to run the code that changes the studynet interface and adds the additional feauters.
+
+---
 
 ## 2. Installing the script (actual code)
 
@@ -47,6 +51,7 @@ These programs will allow you to run the code that changes the studynet interfac
 
 3. Hit save, and you're good to go
 
+---
 
 ### Firefox:
 

@@ -1,7 +1,7 @@
 
 // ==UserScript==
 // @name         Studynet Pretify v2
-// @namespace    http://your.homepage/
+// @namespace    https://fronter.com/unisg/main.phtml
 // @version      0.2.0
 // @description  Prettify The HSG Studynet (+download function)
 // @author       Bryan Giger

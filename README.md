@@ -35,11 +35,22 @@ Follow the instructions and install it as an extension on your browser.
 
 These programs will allow you to run the code that changes the studynet interface and adds the additional feauters.
 
-## 2. installing the script (actual code)
+## 2. Installing the script (actual code)
+
+### Safari/Chrome
+
+1. Click on the tampermonkey icon and select "Add New Script"
+![New Script](img/ch_newscript.png)
+
+2. Click on the tampermonkey icon and select "Add New Script", dont forget to fill in the 'update url'
+![Paste Code](img/ch_paste_script.png)
+
+3. Hit save, and you're good to go
+
 
 ### Firefox:
 
-1. Select the tampermonkey extention asd click 'New USer script'
+1. Select the tampermonkey extention asd click 'New User script'
 ![New Script](img/ff_hover_newscript.png)
 
 2. enter the following details:
@@ -47,6 +58,7 @@ These programs will allow you to run the code that changes the studynet interfac
 
 3. Paste the code here - Dont forget to type the 'allow pasting' to allow you to paste
 ![Paste The Code](img/ff_paste_script.png)
+
 
 
 ## 3. Modifying the Script

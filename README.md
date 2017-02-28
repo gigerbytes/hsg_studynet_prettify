@@ -128,10 +128,10 @@ The button must be *pressed* while you're in the course materials page. you will
 1. you must refresh the site after every course/materials you download
 2. the course must be in the third tab
 3. Some file extensions do not appear
-4. There is no progress bar: depending on the number of links on the website, might take a while (you can check the browser console though)
+4. There is no progress bar: depending on the number of links on the website, might take a while (you can check the web console though)
 5. Does not work in Safari
 
-[![Download_file_demo]](https://www.dropbox.com/s/dms7myveyrxwrn0/download_file_demo.mov?dl=0)
+[![Download file demo](img/dl_video_thumb.png)](https://www.dropbox.com/s/dms7myveyrxwrn0/download_file_demo.mov?dl=0)
 
 
 This still needs debugging and improvement.

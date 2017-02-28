@@ -131,7 +131,7 @@ The button must be *pressed* while you're in the course materials page. you will
 4. There is no progress bar: depending on the number of links on the website, might take a while (you can check the web console though)
 5. Does not work in Safari
 
-[![Download file demo](img/dl_video_thumb.png)](https://www.dropbox.com/s/dms7myveyrxwrn0/download_file_demo.mov?dl=0)
+![Download File Demo](img/download_file_demo.gif)
 
 
 This still needs debugging and improvement.

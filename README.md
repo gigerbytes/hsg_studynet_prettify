@@ -112,5 +112,16 @@ In the web, colors are usually represented via hex codes. you can head to [Color
 Don't forget the Hashtag (#) at the front of the 6 character code.
 
 ---
+# Download Function
 
+The button must be *pressed* while you're in the course materials page. you will get a zip file with the data.
+
+**NOTE here are some quirks:**
+1. you must refresh the site after every course/materials you download
+2. the course must be in the third tab
+3. Does not work in Safari
+
+This still needs debugging and improvement.
+
+---
 ## Security note: only install scripts you trust, I will not be responsible for any other scripts you install.

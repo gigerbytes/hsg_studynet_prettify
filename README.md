@@ -8,6 +8,8 @@
 
 ![Improved Interface](img/studynet_interface_full.png)
 
+![Download File Demo](img/download_file_demo.gif)
+
 ---
 
 # Code
